@@ -1,4 +1,4 @@
-package com.pb.Hliebov;
+package com.pb.Hliebov.hw1;
 
 public class HelloWorld {
     public static void main(String[] args) {
